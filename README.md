@@ -1,4 +1,10 @@
-### Hi there 👋
+### Ahoy World! :sunglasses:
+
+Too _"busy"_ for side projects.
+
+### 📫 How to reach me
+
+Send me an [Email](mailto:earl.lapus@gmail.com), mention or DM me on [Twitter](https://twitter.com/bleepster).
 
 <!--
 **bleepster/bleepster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
