@@ -4,7 +4,7 @@ Too _"busy"_ for side projects.
 
 ### 📫 How to reach me
 
-Send me an [Email](mailto:bleepster@earll.net), mention or DM me on [Twitter](https://twitter.com/bleepster).
+Send me an [Email](mailto:bleepster@earll.net)).
 
 <!--
 **bleepster/bleepster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
